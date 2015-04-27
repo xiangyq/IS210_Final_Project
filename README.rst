@@ -29,21 +29,21 @@ User Stories
 For Fiona, she really need a tool, which enable to check her stocks without openning her accounts and update stock information after trade happenes. This tool will be perferct for her if she can use it to calcualte yield and overall return on real time. With this tool, she will be able to manage her accounts easliy and efficiently. 
 
 Acceptance Stories
-====================
+==================
 
 Scenario 1: Inputting stock information
----------------------------------------------------------------------------
+--------------------------------------------------------------------
 ::
 
     Given that I buy a new stock
     And I would like to update it into a program
     When I click the Buy button
-    Then I will be taken to a screen to input stock information by filling in symbol, the number of volume,    the  price
+    Then I will be taken to a screen to input stock information by filling in symbol, the number of volume, the  price
     And the date will be auto-filled
     And screen shows the output of stock information
 
 Scenario 2: Deleting a stock
-----------------------------------------------------
+-----------------------------------------------
 ::
 
     Given that I sell a stock
@@ -53,7 +53,7 @@ Scenario 2: Deleting a stock
     And screen shows the output of left stocks information
 
 Scenario 3: Calculating yield and overall return of stocks
---------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 ::
 
     Given that I have the current prices of my stocks
