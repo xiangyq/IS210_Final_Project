@@ -38,7 +38,8 @@ Scenario 1: Inputting stock information
     Given that I buy a new stock
     And I would like to update it into a program
     When I click the Buy button
-    Then I will be taken to a screen to input stock information by filling in symbol, the number of volume, the  price
+    Then I will be taken to a screen to input stock information by filling in symbol,
+    the number of volume, the  price
     And the date will be auto-filled
     And screen shows the output of stock information
 
