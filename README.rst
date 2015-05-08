@@ -39,8 +39,7 @@ Scenario 1: Inputting stock information
     And I would like to update it into a program
     When I click the Buy button
     Then I will be taken to a screen to input stock information by filling in symbol,
-    the number of volume, the  price
-    And the date will be auto-filled
+    the number of volume, the price, the date
     And screen shows the output of stock information
 
 Scenario 2: Deleting a stock
