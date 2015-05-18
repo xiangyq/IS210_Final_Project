@@ -33,7 +33,7 @@ def calculate(stocks, stock_market_price):
         Check the result in myresult.csv!
     """
     result = [['stock symbol', 'purchase price', 'purchase date',
-               'volume', 'total return', 'yield']]
+               'volume', 'total return', 'annual yield']]
     counter = 1
     while counter < len(stocks):
         sym = stocks[counter][0]
