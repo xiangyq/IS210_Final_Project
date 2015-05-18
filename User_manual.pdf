@@ -1,0 +1,276 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+5 0 obj
+<< /Outlines 7 0 R /PageLabels 16 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog >>
+endobj
+6 0 obj
+<< /Author () /CreationDate (D:20150518024953+00'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (User Manual) >>
+endobj
+7 0 obj
+<< /Count 6 /First 8 0 R /Last 13 0 R /Type /Outlines >>
+endobj
+8 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 729.0236 0 ] /Next 9 0 R /Parent 7 0 R /Title (Overview) >>
+endobj
+9 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 654.0236 0 ] /Next 10 0 R /Parent 7 0 R /Prev 8 0 R /Title (User Scenario 1: Update stocks after buying) >>
+endobj
+10 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 591.0236 0 ] /Next 11 0 R /Parent 7 0 R /Prev 9 0 R /Title (User Scenario 2: Update stocks after selling) >>
+endobj
+11 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 528.0236 0 ] /Next 12 0 R /Parent 7 0 R /Prev 10 0 R /Title (User Scenario 3: Calculate return and yield) >>
+endobj
+12 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 465.0236 0 ] /Next 13 0 R /Parent 7 0 R /Prev 11 0 R /Title (User Tips) >>
+endobj
+13 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 300.0236 0 ] /Parent 7 0 R /Prev 12 0 R /Title (Warning) >>
+endobj
+14 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+endobj
+15 0 obj
+<< /Length 4708 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 175.4849 0 Td (User Manual) Tj T* -175.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .979318 Tw (This program allows user to update stocks information after buying and selling and calculate return and) Tj T* 0 Tw .387984 Tw (yield of stocks after providing current stock price. Meanwhile, the stocks information after updating will be) Tj T* 0 Tw (saved in mystock.csv file; and the result after calculating will be saved in myresult.csv file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (User Scenario 1: Update stocks after buying) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .497318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F2 10 Tf (buy ) Tj /F1 10 Tf (module, and input the stock information by answering questions. The update information will be) Tj T* 0 Tw (saved in mystock.csv file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (User Scenario 2: Update stocks after selling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .570651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F2 10 Tf (sell ) Tj /F1 10 Tf (module, and input the stock information by answering qeustions. The update information will be) Tj T* 0 Tw (saved in mystock.csv file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (User Scenario 3: Calculate return and yield) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .848735 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F2 10 Tf (calculate ) Tj /F1 10 Tf (module, and input the current prices of stocks by answering questions. The result will be) Tj T* 0 Tw (saved in myreturn.csv file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (User Tips) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 78 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .319269 Tw (In order to update stocks after selling, user need to provide accurate stock information including) Tj T* 0 Tw .35784 Tw ("stock symbol", "purchase price", "purchase date", "volume", so it will be more convinient if user) Tj T* 0 Tw (open mystock.csv file before inputting;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .91528 Tw (In turns of any date you need to input, please follow the example which shows on the screen.) Tj T* 0 Tw (That format is what this program takes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .976235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Whenever user wants to start over again, it is very simple. Just run ) Tj /F2 10 Tf (reset ) Tj /F1 10 Tf (module. After reset,) Tj T* 0 Tw (user will find there are only headrow left in mystock.csv and myresult.csv files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (mystock.csv ) Tj /F1 10 Tf (and ) Tj /F2 10 Tf (myresult.csv ) Tj /F1 10 Tf (files can be used for further analysis.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .009461 Tw (Be noted that this program does not take account of stock trading fee and dividend, so the return and yield) Tj T* 0 Tw (of stocks are not the same as the ones in real trading.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+16 0 obj
+<< /Nums [ 0 17 0 R ] >>
+endobj
+17 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 18
+0000000000 65535 f
+0000000075 00000 n
+0000000119 00000 n
+0000000229 00000 n
+0000000344 00000 n
+0000000553 00000 n
+0000000660 00000 n
+0000000881 00000 n
+0000000956 00000 n
+0000001065 00000 n
+0000001222 00000 n
+0000001381 00000 n
+0000001540 00000 n
+0000001665 00000 n
+0000001775 00000 n
+0000001838 00000 n
+0000006603 00000 n
+0000006647 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\262\324e\250x\013H\234\2772j\304\204\223\340m) (\262\324e\250x\013H\234\2772j\304\204\223\340m)]
+ /Info 6 0 R /Root 5 0 R /Size 18 >>
+startxref
+6684
+%%EOF
