@@ -11,7 +11,7 @@ OUTPUT1.writerows(MYSTOCKS)
 OUTPUT_FILE1.close()
 
 MYRESULT = [['stock symbol', 'purchase price', 'purchase date',
-             'volume', 'return', 'yield']]
+             'volume', 'total return', 'annual yield']]
 OUTPUT_FILE2 = open('myresult.csv', 'w')
 OUTPUT2 = csv.writer(OUTPUT_FILE2)
 OUTPUT2.writerows(MYRESULT)
