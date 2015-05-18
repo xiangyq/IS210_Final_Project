@@ -47,7 +47,7 @@ def calculate(stocks, stock_market_price):
         p_date = datetime.datetime.strptime(pdate, '%Y%m%d').date()
         h_days = (c_date - p_date).days
         myinvest = round(float(stocks[counter][1]) * int(stocks[counter][3]), 1)
-        myyield = round((myreturn / myinvest) * h_days / 365 * 100, 2)
+        myyield = round((myreturn / myinvest) * 365 / h_days * 100, 2)
         newinfor = [sym, price1, pdate, vol, '${}'.format(myreturn),
                     '{}%'.format(myyield)]
         result.append(newinfor)
