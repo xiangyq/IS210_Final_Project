@@ -10,7 +10,7 @@ MYSTOCKS = []
 for row in MYSTOCK:
     MYSTOCKS.append(row)
 SYMBOL = raw_input('What is the symbol of stock you sold?').upper()
-PRICE = raw_input('What was the price when you bougth?')
+PRICE = raw_input('What was the price when you bought?')
 DATE = raw_input('When did you buy the stock? Follow the example: 20140214\n')
 VOLUME1 = int(raw_input('How much was the volume before selling?'))
 VOLUME2 = int(raw_input('How much of volume did you sell this time?'))
